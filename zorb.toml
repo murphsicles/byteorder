@@ -1,0 +1,10 @@
+[package]
+name = "@io/byteorder"
+version = "1.5.0"
+edition = "2026"
+authors = ["The Zeta Foundation <team@z-lang.org>"]
+description = "Reading and writing integers in big-endian and little-endian byte order for Zeta"
+license = "MIT"
+repository = "https://github.com/murphsicles/byteorder"
+keywords = ["byteorder", "endian", "encoding", "bsv"]
+categories = ["io::encoding"]
